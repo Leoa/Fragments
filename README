@@ -1,0 +1,11 @@
+This directory contains example code for G. Blake Meike's talk on Android Honeycomb Fragments.
+
+To use the projects with eclipse, copy the files $p/tools/ide/eclipse/{classpath,project} to
+$p/.{classpath,project} respectively.  Since it was set up for my system, you may have to
+do some tweaking to get it to work.
+
+If you have any questions or problems, leave me a note at GitHub.
+
+-blake
+
+http://portabledroid.wordpress.com/
